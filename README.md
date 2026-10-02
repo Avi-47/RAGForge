@@ -462,7 +462,7 @@ This project is licensed under the **MIT License**. You are free to use, modify,
 
 # Author
 
-## Rounak Kumar Sah
+## Avimanyu Goswami
 
 **AI Automation Engineer | AI Agent Developer | GenAI Engineer**
 
